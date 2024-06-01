@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "framer-motion": "^11.2.9",
+    "react-simple-typewriter": "^5.0.1",
+    "typewriter-effect": "^2.21.0"
+  }
+}
